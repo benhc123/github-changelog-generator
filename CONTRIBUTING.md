@@ -14,7 +14,7 @@ Bug reports and pull requests from users are what keep this project working.
 ## Checking your work
 
 You can test your workflow with changelog generator with
-[the skywinder/changelog_test repo].
+the [skywinder/changelog_test] repo.
 
 You can run the test suite.
 
